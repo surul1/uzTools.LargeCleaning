@@ -1,6 +1,4 @@
-# Windows Large File Management Tool (大型文件管理工具)
-
-## English | 🇬🇧
+# Windows Large File Management Tool
 
 A simple and efficient Windows desktop application built with C++ Win32 API, designed to help users identify and manage large files (1GB and above) on their local fixed drives. It leverages the C++17 `std::filesystem` library for efficient file scanning and `std::async` for background operations, ensuring a responsive user interface.
 
